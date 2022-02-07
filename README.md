@@ -1,5 +1,5 @@
 # Book_library
-simple app for add books in own gallery
+simple app for create/read/update/delete books in own Book Library
 
 Для разворачивания тестового проекта на локальном сервере нужно: 
 1) скачать файлы исходника
